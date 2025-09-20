@@ -1,0 +1,10 @@
+High Priority
+Keywords: "high priority", "urgent", "immediate", "critical", "emergency", "as soon as possible", "top priority", "important"
+These words indicate a pressing issue that requires immediate attention.
+
+Medium Priority
+Keywords: "medium priority", "moderate importance", "need attention", "soon", "when possible"
+These words suggest the issue is important but not necessarily urgent.
+
+Low Priority
+Keywords: "low priority", "not urgent", "minor issue", "when convenient", "no rush"
